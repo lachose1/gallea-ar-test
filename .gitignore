@@ -1,0 +1,5 @@
+node_modules/
+npm-debug.log
+dist/
+# The compiled index
+frontend/index.html
