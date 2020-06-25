@@ -1,0 +1,3 @@
+https://poly.google.com/view/62zn39CRkbG
+
+converted with obj2gltf -i Wall_Art_Classical_01.obj -o wallart.gltf

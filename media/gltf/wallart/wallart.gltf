@@ -1,0 +1,379 @@
+{
+  "accessors": [
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_0_positions",
+      "componentType": 5126,
+      "count": 120,
+      "min": [
+        -4.945537090301514,
+        0.005464000161737204,
+        -0.22944599390029907
+      ],
+      "max": [
+        4.945537090301514,
+        13.490951538085938,
+        0.6173009872436523
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_0_normals",
+      "componentType": 5126,
+      "count": 120,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        0.9999768733978271
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_0_indices",
+      "componentType": 5123,
+      "count": 213,
+      "min": [
+        0
+      ],
+      "max": [
+        119
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_1_positions",
+      "componentType": 5126,
+      "count": 44,
+      "min": [
+        -3.782654047012329,
+        1.2637419700622559,
+        -9.999999974752427e-7
+      ],
+      "max": [
+        3.764364004135132,
+        10.861750602722168,
+        9.999999974752427e-7
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 1440
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_1_normals",
+      "componentType": 5126,
+      "count": 44,
+      "min": [
+        0,
+        0,
+        -1
+      ],
+      "max": [
+        0,
+        0,
+        -1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 1440
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_1_indices",
+      "componentType": 5123,
+      "count": 153,
+      "min": [
+        0
+      ],
+      "max": [
+        43
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 428
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_2_positions",
+      "componentType": 5126,
+      "count": 23,
+      "min": [
+        -3.782654047012329,
+        7.936389923095703,
+        -9.999999974752427e-7
+      ],
+      "max": [
+        3.764364004135132,
+        12.262117385864258,
+        9.999999974752427e-7
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 1968
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_2_normals",
+      "componentType": 5126,
+      "count": 23,
+      "min": [
+        0,
+        0,
+        -1
+      ],
+      "max": [
+        0,
+        0,
+        -1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 1968
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_2_indices",
+      "componentType": 5123,
+      "count": 63,
+      "min": [
+        0
+      ],
+      "max": [
+        22
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 736
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_3_positions",
+      "componentType": 5126,
+      "count": 26,
+      "min": [
+        -3.782654047012329,
+        3.6253459453582764,
+        -9.999999974752427e-7
+      ],
+      "max": [
+        3.764364004135132,
+        9.965184211730957,
+        9.999999974752427e-7
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 2244
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_3_normals",
+      "componentType": 5126,
+      "count": 26,
+      "min": [
+        0,
+        0,
+        -1
+      ],
+      "max": [
+        0,
+        0,
+        -1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 2244
+    },
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh_3_indices",
+      "componentType": 5123,
+      "count": 66,
+      "min": [
+        0
+      ],
+      "max": [
+        25
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 864
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Wall_Art_Classical_01",
+      "byteLength": 6108,
+      "uri": "data:application/octet-stream;base64,cZNlQGd7xD8Ueq0+cZNlwGd7xD9Xeq0+cZNlwDr6P0FXeq0+cZNlQDr6P0EUeq0+8RJ9wHdojD91ks29FN+ZwBvxRD7Y8mq+FN+ZwI3dVEEb82q+8RJ9wG6wRkH7ks29cZNlQDr6P0EUeq0+VmJsQLp1QkGBzC6+VmJsQGKfsD8+zC6+cZNlQGd7xD8Ueq0+cZNlwGd7xD9Xeq0+VmJswGKfsD+4yy6+VmJswLp1QkG4yy6+cZNlwDr6P0FXeq0+10GeQFsLszuSILQ+FN+ZQBvxRD7k82q+FN+ZQI3dVEHk82q+10GeQPDaV0GSILQ+10GewPDaV0H3ILQ+FN+ZwI3dVEEb82q+FN+ZwBvxRD7Y8mq+10GewFsLszsYIbQ+8RJ9QG6wRkEIlM29FN+ZQI3dVEHk82q+FN+ZQBvxRD7k82q+8RJ9QHdojD8IlM298RJ9wG6wRkH7ks29FN+ZwI3dVEEb82q+FN+ZQI3dVEHk82q+8RJ9QG6wRkEIlM298RJ9QHdojD8IlM29FN+ZQBvxRD7k82q+FN+ZwBvxRD7Y8mq+8RJ9wHdojD91ks2910GeQPDaV0GSILQ+FN+ZQI3dVEHk82q+FN+ZwI3dVEEb82q+10GewPDaV0H3ILQ+10GewFsLszsYIbQ+FN+ZwBvxRD7Y8mq+FN+ZQBvxRD7k82q+10GeQFsLszuSILQ+cZNlwDr6P0FXeq0+VmJswLp1QkG4yy6+VmJsQLp1QkGBzC6+cZNlQDr6P0EUeq0+cZNlQGd7xD8Ueq0+VmJsQGKfsD8+zC6+VmJswGKfsD+4yy6+cZNlwGd7xD9Xeq0+10GewPDaV0H3ILQ+10GewFsLszsYIbQ+10GewFsLsztwBx4/10GewPDaV0FwBx4/10GeQFsLszuSILQ+10GeQPDaV0GSILQ+10GeQPDaV0E+Bx4/10GeQFsLszs+Bx4/10GeQPDaV0GSILQ+10GewPDaV0H3ILQ+10GewPDaV0FwBx4/10GeQPDaV0E+Bx4/10GewFsLszsYIbQ+10GeQFsLszuSILQ+10GeQFsLszs+Bx4/10GewFsLsztwBx4/10GeQFsLszs+Bx4/10GeQPDaV0E+Bx4/AAAAAFTx10DXUBI/10GeQPDaV0E+Bx4/10GewPDaV0FwBx4/AAAAAFTx10DXUBI/10GewFsLsztwBx4/10GeQFsLszs+Bx4/AAAAAFTx10DXUBI/10GewPDaV0FwBx4/10GewFsLsztwBx4/AAAAAFTx10DXUBI/VmJsQGKfsD8+zC6+8RJ9QHdojD8IlM298RJ9wHdojD91ks29VmJswGKfsD+4yy6+VmJswLp1QkG4yy6+8RJ9wG6wRkH7ks298RJ9QG6wRkEIlM29VmJsQLp1QkGBzC6+VmJsQLp1QkGBzC6+8RJ9QG6wRkEIlM298RJ9QHdojD8IlM29VmJsQGKfsD8+zC6+VmJswGKfsD+4yy6+8RJ9wHdojD91ks298RJ9wG6wRkH7ks29VmJswLp1QkG4yy6+6dQVvBAS4kAAAAAA+b+jvxAS4kAAAAAA+yGSv/kT+kAAAAAA6dQVvPkT+kAAAACAp8qPPyHlGEEAAACA6dQVvCHlGEEAAACA6dQVvOzuIEEAAACAp8qPP/kT+kAAAACA+yGSvyHlGEEAAAAA6dQVvFlqmEAAAAAA/dm/v+G1t0C9N4Y1T6wTPxAS4kAAAACAflXwP1zarEC9N4a1flXwP6eTakAAAACAPrC3P6eVU0AAAACAT6wTP6naa0AAAACAflXwP1FBhUAAAACAYTRbP6DgJkAAAACA6dQVvJ4JOkAAAAAAflXwPy7l9j8AAACANSSePymv1T8AAACAMSaHP5eqBUAAAACA6dQVvJmbDkAAAAAAflXwP6DePUAAAACArVDQP6atIUG9N4a1flXwPzWwBUG9N4a1flXwPxAS4kC9N4a1p8qPP/kT+kAAAACAp8qPPyHlGEEAAACAflXwP1FBhUAAAACA6dQVvFFBhUAAAAAA6dQVvFlqmEAAAAAAflXwP1zarEC9N4a12qzyv1FBhUC9N4Y1DypUwFFBhUC9N4Y1D2RHwFkHkkC9N4Y1CK0xwOHRvEC9N4Y12qzyvxAS4kC9N4Y1+b+jvxAS4kAAAAAA/dm/v+G1t0C9N4Y16dQVvEzCoT8AAAAA2qzyv0zCoT+9N4Y12qzyv55fMkC9N4Y16dQVvJmbDkAAAAAAARdywEzCoT+9N4Y1ARdywJviD0C9N4Y1CqAjwKcHUUC9N4a1V+twQEzCoT+9N4a1flXwP0zCoT8AAACAflXwPy7l9j8AAACAflXwP6DePUAAAACAflXwP6eTakAAAACALZZEQFFBhUC9N4a1LQZZQKn2cEC9N4a1V+twQKsFaEC9N4a1MSaHP5eqBUAAAACANSSePymv1T8AAACAT6wTPxAS4kAAAACA2qzyv+j2/UC9N4Y1AKjSv6atIUEAAAAA+yGSvyHlGEEAAAAA+yGSv/kT+kAAAAAA6dQVvLvJLUEAAACA6dQVvOzuIEEAAACAKSYwQGD0yEC9N4a1ARdywFFBhUC9N4Y1T6wTP6naa0AAAACA6dQVvJ4JOkAAAAAAAKjSv6atIUEAAAAAARdywGVxH0G9N4Y1ARdywKIxREG9N4Y12qzyv6IxREEAAAAAV+twQGVxH0G9N4a1rVDQP6atIUG9N4a1flXwP6IxREG9N4a1V+twQKIxREG9N4a16dQVvLvJLUEAAACA6dQVvKIxREEAAACA2qzyv+j2/UC9N4Y1CkorwLjSEUG9N4Y1CtZEwHVeBUG9N4Y1D7hWwLeLEEG9N4Y1ARdywPVzA0G9N4Y1L79XQPjyDkG9N4a1L4dNQLinFUG9N4a1L09DQPZkDEG9N4a1KUI1QDd2EkG9N4a1JqckQLf9DUG9N4a1JosfQPZIB0G9N4a1JlMVQHfBC0G9N4a1flXwPzWwBUG9N4a1V+twQFFBhUC9N4a1LZZEQFFBhUC9N4a1KSYwQGD0yEC9N4a1V+twQBAS4kC9N4a1flXwPxAS4kC9N4a1flXwPzWwBUG9N4a1JlMVQHfBC0G9N4a1JosfQPZIB0G9N4a1JqckQLf9DUG9N4a1KUI1QDd2EkG9N4a1L09DQPZkDEG9N4a1L4dNQLinFUG9N4a1L79XQPjyDkG9N4a1V+twQGVxH0G9N4a12qzyvxAS4kC9N4Y1ARdywBAS4kC9N4Y1ARdywPVzA0G9N4Y1D7hWwLeLEEG9N4Y1CtZEwHVeBUG9N4Y1CkorwLjSEUG9N4Y12qzyv+j2/UC9N4Y1V+twQKsFaEC9N4a1LQZZQKn2cEC9N4a1CK0xwOHRvEC9N4Y1D2RHwFkHkkC9N4Y1ARdywFFBhUC9N4Y1AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/a/sYPgAAAICDIH2/a/sYPgAAAICDIH2/a/sYPgAAAICDIH2/a/sYPgAAAICDIH2/Z5h6vwAAAACTTVG+Z5h6vwAAAACTTVG+Z5h6vwAAAACTTVG+Z5h6vwAAAACTTVG+Z5h6PwAAAACTTVG+Z5h6PwAAAACTTVG+Z5h6PwAAAACTTVG+Z5h6PwAAAACTTVG+uip5PwAAAICOAmu+uip5PwAAAICOAmu+uip5PwAAAICOAmu+uip5PwAAAICOAmu+uip5vwAAAACOAmu+uip5vwAAAACOAmu+uip5vwAAAACOAmu+uip5vwAAAACOAmu+a/sYvgAAAICDIH2/a/sYvgAAAICDIH2/a/sYvgAAAICDIH2/a/sYvgAAAICDIH2/AAAAgJKNE74PVH2/AAAAgJKNE74PVH2/AAAAgJKNE74PVH2/AAAAgJKNE74PVH2/AAAAgAqWED5tb32/AAAAgAqWED5tb32/AAAAgAqWED5tb32/AAAAgAqWED5tb32/AAAAgDy2cz8duZy+AAAAgDy2cz8duZy+AAAAgDy2cz8duZy+AAAAgDy2cz8duZy+AAAAgDy2c78duZy+AAAAgDy2c78duZy+AAAAgDy2c78duZy+AAAAgDy2c78duZy+AAAAgKTldL9vJpW+AAAAgKTldL9vJpW+AAAAgKTldL9vJpW+AAAAgKTldL9vJpW+AAAAgKTldD9vJpW+AAAAgKTldD9vJpW+AAAAgKTldD9vJpW+AAAAgKTldD9vJpW+AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAV10YvAAAAAAr/X8/V10YvAAAAAAr/X8/V10YvAAAAAAr/X8/AAAAADfR3rt8/n8/AAAAADfR3rt8/n8/AAAAADfR3rt8/n8/AAAAADfR3jt8/n8/AAAAADfR3jt8/n8/AAAAADfR3jt8/n8/V10YPAAAAAAr/X8/V10YPAAAAAAr/X8/V10YPAAAAAAr/X8/AAAAgKD7dr4scXi/AAAAgKD7dr4scXi/AAAAgKD7dr4scXi/AAAAgKD7dr4scXi/AAAAgB6igz4PZXe/AAAAgB6igz4PZXe/AAAAgB6igz4PZXe/AAAAgB6igz4PZXe/LVOFPgAAAIAPK3e/LVOFPgAAAIAPK3e/LVOFPgAAAIAPK3e/LVOFPgAAAIAPK3e/LVOFvgAAAIAPK3e/LVOFvgAAAIAPK3e/LVOFvgAAAIAPK3e/LVOFvgAAAIAPK3e/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AQADAAAAAwABAAIABQAHAAQABwAFAAYACQALAAgACwAJAAoADgAPAAwADAANAA4AEgATABAAEAARABIAFQAXABQAFwAVABYAGQAbABgAGwAZABoAHQAfABwAHwAdAB4AIQAjACAAIwAhACIAJQAnACQAJwAlACYAKgArACgAKAApACoALgAvACwALAAtAC4AMQAzADAAMwAxADIANQA3ADQANwA1ADYAOgA7ADgAOAA5ADoAPQA/ADwAPwA9AD4AQgBDAEAAQABBAEIARABFAEYARwBIAEkASgBLAEwATQBOAE8AUQBTAFAAUwBRAFIAVQBXAFQAVwBVAFYAWQBbAFgAWwBZAFoAXQBfAFwAXwBdAF4AYQBjAGAAYwBhAGIAZABlAGYAYwBkAGcAZABjAGUAZQBoAGYAYgBlAGMAZQBiAGgAagBgAGkAYABqAGEAawBjAGcAYwBrAGAAbABgAGsAYABsAGkAbgBwAG0AcABuAG8AbgByAG8AcgBuAHEAdAB3AHMAdwBxAG4AcQB2AHIAdQB3AHQAdwB2AHEAdgB3AHUAdwBuAG0AAAABAAQAAAAEAAIAAwACAAQAAQAGAAgABQAIAAYABwAJAAwADQALAAkACgAJAAsADAAJAAcABgAPAA0ADgAJAA8ABwAPAAkADQARABMAEAATABEAEgAUABIAEQAWABUACgAVABIAFAASABUAFgAYAB4AFwAdAAUAHAAFABoAGwAaABgAGQAYAB0AHgAdABoABQAaAB0AGAAYACAAGQAgABMAHwATABgAEAAYABMAIAACACEAAwAiACUADQAlACMAJAAjACUAIgAmACQAIwAkACYAJwAAACcAJgAnAAAABAAIACEAAgAlAA4ADQAoAAgAAgAIABwABQAcAAgAKAAKABUAKQAFACoABgAGACoAKwASACsAEwArAAkABgAJACsAEgASABYACQAWAAoACQApAAsACgAAAAEAAwAAAAMAAQACAAUABwAEAAcABQAGAAkABQAIAAUACQAGAAAACQAIAAkAAAADAAsAAAAKAAEADQAOAA0ACwAMAAsAAQAAAAEACwANAAQAFgAFABUAEwAUABIAEAARABAABAAPAAQAFQAWABUAEgATABIABAAQAAQAEgAVAAAAAQADAAAAAwABAAIAAwAMAA0ADAAKAAsACgAIAAkABwAFAAYABQADAAQAAwAKAAwACgAHAAgABwADAAUAAwAHAAoADwAUAA4AFAASABMAEgAQABEAEAAUAA8AFAAQABIAFgAAABUAAAAWAAEADgAXAA8AFwAZAA8AGQAXABgAAwACAAQA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 2556,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 2556,
+      "byteOffset": 2556,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 996,
+      "byteOffset": 5112,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "DD9944",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.866667,
+          0.6,
+          0.266667,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.903921569
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "1A1A1A",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.101961,
+          0.101961,
+          0.101961,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.903921569
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "4CAF50",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.298039,
+          0.686275,
+          0.313726,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.903921569
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    },
+    {
+      "name": "8BC34A",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.545098,
+          0.764706,
+          0.290196,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.903921569
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Wall_Art_Classical_Plane-Mesh",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 3,
+            "NORMAL": 4
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 6,
+            "NORMAL": 7
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Wall_Art_Classical_Plane",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
